@@ -49,6 +49,3 @@ header nav li a:focus, header nav li a:hover{
     transform: translateY(-100%);
     transition: transform 0.3s;
   }
-
-
-
